@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on **PHP Laravel - Network Marketing**<br><br>- 🌱 I’m currently learning **ASP.Net**<br><br>- 👯 I’m looking to collaborate on [Nightmare in Kbu](https://darkongames.com)<br><br>- 👨‍💻 All of my projects are available at [www.mcozcan.com](www.mcozcan.com)<br><br>- 📫 How to reach me **mcozcan@outlook.com.tr**<br>
+- 🔭 I’m currently working on **PHP Laravel - Network Marketing - E-commerce - ERP Systems**<br><br>- 🌱 I’m currently learning **ASP.Net**<br><br>- 👯 I’m looking to collaborate on [Nightmare in Kbu](https://darkongames.com)<br><br>- 👨‍💻 All of my projects are available at [www.mcozcan.com](www.mcozcan.com)<br><br>- 📫 How to reach me **mcozcan@outlook.com.tr**<br>
 
 
 ## 🌐 Socials:
